@@ -125,4 +125,4 @@ If there are some notes entered in the task, only first 200 chars are visible by
 The `TASKNOTE_EXCERPT` value can be updated to change the number of characters shown in the task board view.
 
 Note: If the default task template used to create the task, only the first part of the task notes are visible. (until first the '###'' section).
-
+\Tasks
